@@ -1,5 +1,5 @@
 # waiterrestaurantbot
-A bot in place of a waiter in a restaurant
+A bot in place of a waiter in a restaurant (in format json, aoraji waiterbot.json)
 www.github.com/rawnc/waiterrestaurantbot 
 
 
